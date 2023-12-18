@@ -1,4 +1,8 @@
 venv/
+media/
+
 
 **/__pychace__/
 *.pyc
+
+db.sqlite3
